@@ -1,0 +1,13 @@
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\ConsoleBankautomaat\bin\Debug\netcoreapp3.1\ConsoleBankautomaat.exe
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\ConsoleBankautomaat\bin\Debug\netcoreapp3.1\ConsoleBankautomaat.deps.json
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\ConsoleBankautomaat\bin\Debug\netcoreapp3.1\ConsoleBankautomaat.runtimeconfig.json
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\ConsoleBankautomaat\bin\Debug\netcoreapp3.1\ConsoleBankautomaat.runtimeconfig.dev.json
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\ConsoleBankautomaat\bin\Debug\netcoreapp3.1\ConsoleBankautomaat.dll
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\ConsoleBankautomaat\bin\Debug\netcoreapp3.1\ConsoleBankautomaat.pdb
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\ConsoleBankautomaat\obj\Debug\netcoreapp3.1\ConsoleBankautomaat.AssemblyInfoInputs.cache
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\ConsoleBankautomaat\obj\Debug\netcoreapp3.1\ConsoleBankautomaat.AssemblyInfo.cs
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\ConsoleBankautomaat\obj\Debug\netcoreapp3.1\ConsoleBankautomaat.csproj.CoreCompileInputs.cache
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\ConsoleBankautomaat\obj\Debug\netcoreapp3.1\ConsoleBankautomaat.dll
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\ConsoleBankautomaat\obj\Debug\netcoreapp3.1\ConsoleBankautomaat.pdb
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\ConsoleBankautomaat\obj\Debug\netcoreapp3.1\ConsoleBankautomaat.genruntimeconfig.cache
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\ConsoleBankautomaat\obj\Debug\netcoreapp3.1\ConsoleBankautomaat.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\SlnLes01HerhalingEnAanvulling\bin\Debug\netcoreapp3.1\SlnLes01HerhalingEnAanvulling.exe
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\SlnLes01HerhalingEnAanvulling\bin\Debug\netcoreapp3.1\SlnLes01HerhalingEnAanvulling.deps.json
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\SlnLes01HerhalingEnAanvulling\bin\Debug\netcoreapp3.1\SlnLes01HerhalingEnAanvulling.runtimeconfig.json
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\SlnLes01HerhalingEnAanvulling\bin\Debug\netcoreapp3.1\SlnLes01HerhalingEnAanvulling.runtimeconfig.dev.json
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\SlnLes01HerhalingEnAanvulling\bin\Debug\netcoreapp3.1\SlnLes01HerhalingEnAanvulling.dll
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\SlnLes01HerhalingEnAanvulling\bin\Debug\netcoreapp3.1\SlnLes01HerhalingEnAanvulling.pdb
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\SlnLes01HerhalingEnAanvulling\obj\Debug\netcoreapp3.1\SlnLes01HerhalingEnAanvulling.csprojAssemblyReference.cache
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\SlnLes01HerhalingEnAanvulling\obj\Debug\netcoreapp3.1\SlnLes01HerhalingEnAanvulling.AssemblyInfoInputs.cache
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\SlnLes01HerhalingEnAanvulling\obj\Debug\netcoreapp3.1\SlnLes01HerhalingEnAanvulling.AssemblyInfo.cs
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\SlnLes01HerhalingEnAanvulling\obj\Debug\netcoreapp3.1\SlnLes01HerhalingEnAanvulling.csproj.CoreCompileInputs.cache
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\SlnLes01HerhalingEnAanvulling\obj\Debug\netcoreapp3.1\SlnLes01HerhalingEnAanvulling.dll
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\SlnLes01HerhalingEnAanvulling\obj\Debug\netcoreapp3.1\SlnLes01HerhalingEnAanvulling.pdb
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\SlnLes01HerhalingEnAanvulling\obj\Debug\netcoreapp3.1\SlnLes01HerhalingEnAanvulling.genruntimeconfig.cache
