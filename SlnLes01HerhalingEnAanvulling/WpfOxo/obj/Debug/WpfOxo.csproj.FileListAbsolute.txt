@@ -1,0 +1,15 @@
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfOxo\bin\Debug\WpfOxo.exe.config
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfOxo\bin\Debug\WpfOxo.exe
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfOxo\bin\Debug\WpfOxo.pdb
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfOxo\obj\Debug\WpfOxo.csprojAssemblyReference.cache
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfOxo\obj\Debug\MainWindow.g.cs
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfOxo\obj\Debug\App.g.cs
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfOxo\obj\Debug\WpfOxo_MarkupCompile.cache
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfOxo\obj\Debug\WpfOxo_MarkupCompile.lref
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfOxo\obj\Debug\MainWindow.baml
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfOxo\obj\Debug\WpfOxo.g.resources
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfOxo\obj\Debug\WpfOxo.Properties.Resources.resources
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfOxo\obj\Debug\WpfOxo.csproj.GenerateResource.cache
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfOxo\obj\Debug\WpfOxo.csproj.CoreCompileInputs.cache
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfOxo\obj\Debug\WpfOxo.exe
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfOxo\obj\Debug\WpfOxo.pdb

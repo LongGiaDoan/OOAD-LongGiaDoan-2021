@@ -1,0 +1,14 @@
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfChat\bin\Debug\WpfChat.exe.config
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfChat\bin\Debug\WpfChat.exe
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfChat\bin\Debug\WpfChat.pdb
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfChat\obj\Debug\MainWindow.g.cs
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfChat\obj\Debug\App.g.cs
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfChat\obj\Debug\WpfChat_MarkupCompile.cache
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfChat\obj\Debug\WpfChat_MarkupCompile.lref
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfChat\obj\Debug\MainWindow.baml
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfChat\obj\Debug\WpfChat.g.resources
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfChat\obj\Debug\WpfChat.Properties.Resources.resources
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfChat\obj\Debug\WpfChat.csproj.GenerateResource.cache
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfChat\obj\Debug\WpfChat.csproj.CoreCompileInputs.cache
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfChat\obj\Debug\WpfChat.exe
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfChat\obj\Debug\WpfChat.pdb

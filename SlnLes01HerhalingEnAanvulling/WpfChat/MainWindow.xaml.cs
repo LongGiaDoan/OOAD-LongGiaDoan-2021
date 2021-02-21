@@ -20,9 +20,23 @@ namespace WpfChat
     /// </summary>
     public partial class MainWindow : Window
     {
+        string text;
+        string[] scheldwoorden = new string[] { "fucker", "fuck you", "scheldwoorden" };
         public MainWindow()
         {
             InitializeComponent();
+            
+        }
+
+        private void btnVerzenden_Click(object sender, RoutedEventArgs e)
+        {
+            text = txtNaam.Text + " says:" + Environment.NewLine + txtBericht.Text + Environment.NewLine;
+            foreach (string scheldwoord in scheldwoorden)
+            {
+                text = text.Replace(scheldwoord, "****");
+            }
+            txtChat.Text = txtChat.Text+text;
+
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfAlcohol\bin\Debug\WpfAlcohol.exe.config
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfAlcohol\bin\Debug\WpfAlcohol.exe
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfAlcohol\bin\Debug\WpfAlcohol.pdb
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfAlcohol\obj\Debug\MainWindow.g.cs
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfAlcohol\obj\Debug\App.g.cs
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfAlcohol\obj\Debug\WpfAlcohol_MarkupCompile.cache
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfAlcohol\obj\Debug\WpfAlcohol_MarkupCompile.lref
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfAlcohol\obj\Debug\MainWindow.baml
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfAlcohol\obj\Debug\WpfAlcohol.g.resources
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfAlcohol\obj\Debug\WpfAlcohol.Properties.Resources.resources
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfAlcohol\obj\Debug\WpfAlcohol.csproj.GenerateResource.cache
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfAlcohol\obj\Debug\WpfAlcohol.csproj.CoreCompileInputs.cache
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfAlcohol\obj\Debug\WpfAlcohol.exe
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfAlcohol\obj\Debug\WpfAlcohol.pdb
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes01HerhalingEnAanvulling\WpfAlcohol\obj\Debug\WpfAlcohol.csprojAssemblyReference.cache

@@ -7,6 +7,12 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Label x:Name="lblNaam" Content="Naam:&#xD;&#xA;" HorizontalAlignment="Left" Margin="88,85,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblBericht" Content="Bericht:" HorizontalAlignment="Left" Margin="88,210,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.329,-0.367"/>
+        <TextBox x:Name="txtNaam" HorizontalAlignment="Left" Height="23" Margin="243,89,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtBericht" HorizontalAlignment="Left" Height="83" Margin="243,214,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="209"/>
+        <TextBlock x:Name="txtChat" HorizontalAlignment="Left" Margin="515,85,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="177" Width="221" Padding="5" Foreground="Black"/>
+        <Button x:Name="btnVerzenden" Content="verzenden" HorizontalAlignment="Left" Margin="243,349,0,0" VerticalAlignment="Top" Width="75" Click="btnVerzenden_Click"/>
+
     </Grid>
 </Window>

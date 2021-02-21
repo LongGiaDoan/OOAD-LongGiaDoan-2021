@@ -5,7 +5,15 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SlnLes01HerhalingEnAanvulling", "SlnLes01HerhalingEnAanvulling\SlnLes01HerhalingEnAanvulling.csproj", "{713DC09D-2975-4DB9-9974-644C9489DEC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleBankautomaat", "ConsoleBankautomaat\ConsoleBankautomaat.csproj", "{93BBA04F-0C83-4392-860D-0AC294B32A29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleBankautomaat", "ConsoleBankautomaat\ConsoleBankautomaat.csproj", "{93BBA04F-0C83-4392-860D-0AC294B32A29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfChat", "WpfChat\WpfChat.csproj", "{26BFFC10-1C96-48DA-8CB9-4FD3406E9366}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAlcohol", "WpfAlcohol\WpfAlcohol.csproj", "{60189CBB-1641-4556-A52F-956BA814EC03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfOxo", "WpfOxo\WpfOxo.csproj", "{269C9F2B-8A1A-497C-BF2A-A58522F7E47D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfFormChecking", "E:\SSD\Users\DOAN\Documents\GitHub\Long-Doan\OOAD-portfolio-LongGiaDoan\OOAD-portfolio-LongGiaDoan\SlnLes1\WpfFormChecking\WpfFormChecking.csproj", "{88C9995F-FCFC-4D8D-805E-C2B02B8BB550}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +29,22 @@ Global
 		{93BBA04F-0C83-4392-860D-0AC294B32A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93BBA04F-0C83-4392-860D-0AC294B32A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93BBA04F-0C83-4392-860D-0AC294B32A29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26BFFC10-1C96-48DA-8CB9-4FD3406E9366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26BFFC10-1C96-48DA-8CB9-4FD3406E9366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26BFFC10-1C96-48DA-8CB9-4FD3406E9366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26BFFC10-1C96-48DA-8CB9-4FD3406E9366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60189CBB-1641-4556-A52F-956BA814EC03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60189CBB-1641-4556-A52F-956BA814EC03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60189CBB-1641-4556-A52F-956BA814EC03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60189CBB-1641-4556-A52F-956BA814EC03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{269C9F2B-8A1A-497C-BF2A-A58522F7E47D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269C9F2B-8A1A-497C-BF2A-A58522F7E47D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269C9F2B-8A1A-497C-BF2A-A58522F7E47D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269C9F2B-8A1A-497C-BF2A-A58522F7E47D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88C9995F-FCFC-4D8D-805E-C2B02B8BB550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C9995F-FCFC-4D8D-805E-C2B02B8BB550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C9995F-FCFC-4D8D-805E-C2B02B8BB550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C9995F-FCFC-4D8D-805E-C2B02B8BB550}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

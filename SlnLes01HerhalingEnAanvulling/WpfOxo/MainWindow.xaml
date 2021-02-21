@@ -1,0 +1,22 @@
+﻿<Window x:Class="WpfOxo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfOxo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="496.721" Width="790.164">
+    <Grid>
+        <Button x:Name="btn1" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="116,70,0,0" Height="100" Click="Button_Click"/>
+        <Button x:Name="btn4" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="116,187,0,0" Height="100" Click="Button_Click"/>
+        <Button x:Name="btn7" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="116,309,0,0" Height="100" Click="Button_Click"/>
+        <Button x:Name="btn2" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="233,70,0,0" Height="100" Click="Button_Click"/>
+        <Button x:Name="btn8" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="233,309,0,0" Height="100" Click="Button_Click"/>
+        <Button x:Name="btn5" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="233,187,0,0" Height="100" Click="Button_Click"/>
+        <Button x:Name="btn3" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="356,70,0,0" Height="100" Click="Button_Click"/>
+        <Button x:Name="btn6" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="356,187,0,0" Height="100" Click="Button_Click"/>
+        <Button x:Name="btn9" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="356,309,0,0" Height="100" Click="Button_Click"/>
+        <Label Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="116,430,0,0" Width="167"/>
+
+    </Grid>
+</Window>
