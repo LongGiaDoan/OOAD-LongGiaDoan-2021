@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WpfTimer.Properties
+namespace WpfPunten.Properties
 {
 
 
