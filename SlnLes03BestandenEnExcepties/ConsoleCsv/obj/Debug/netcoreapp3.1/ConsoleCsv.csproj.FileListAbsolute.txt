@@ -1,0 +1,13 @@
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes03BestandenEnExcepties\ConsoleCsv\bin\Debug\netcoreapp3.1\ConsoleCsv.exe
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes03BestandenEnExcepties\ConsoleCsv\bin\Debug\netcoreapp3.1\ConsoleCsv.deps.json
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes03BestandenEnExcepties\ConsoleCsv\bin\Debug\netcoreapp3.1\ConsoleCsv.runtimeconfig.json
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes03BestandenEnExcepties\ConsoleCsv\bin\Debug\netcoreapp3.1\ConsoleCsv.runtimeconfig.dev.json
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes03BestandenEnExcepties\ConsoleCsv\bin\Debug\netcoreapp3.1\ConsoleCsv.dll
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes03BestandenEnExcepties\ConsoleCsv\bin\Debug\netcoreapp3.1\ConsoleCsv.pdb
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes03BestandenEnExcepties\ConsoleCsv\obj\Debug\netcoreapp3.1\ConsoleCsv.csprojAssemblyReference.cache
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes03BestandenEnExcepties\ConsoleCsv\obj\Debug\netcoreapp3.1\ConsoleCsv.AssemblyInfoInputs.cache
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes03BestandenEnExcepties\ConsoleCsv\obj\Debug\netcoreapp3.1\ConsoleCsv.AssemblyInfo.cs
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes03BestandenEnExcepties\ConsoleCsv\obj\Debug\netcoreapp3.1\ConsoleCsv.csproj.CoreCompileInputs.cache
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes03BestandenEnExcepties\ConsoleCsv\obj\Debug\netcoreapp3.1\ConsoleCsv.dll
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes03BestandenEnExcepties\ConsoleCsv\obj\Debug\netcoreapp3.1\ConsoleCsv.pdb
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes03BestandenEnExcepties\ConsoleCsv\obj\Debug\netcoreapp3.1\ConsoleCsv.genruntimeconfig.cache
