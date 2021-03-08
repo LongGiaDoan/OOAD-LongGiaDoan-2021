@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfCarConfigurator", "WpfCarConfigurator\WpfCarConfigurator.csproj", "{0BF7289F-B8E9-4616-BD39-D5AC4E908308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfNotepad", "WpfNotepad\WpfNotepad.csproj", "{B0BCC1E9-96AC-46CD-8CA3-8216D370174C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BF7289F-B8E9-4616-BD39-D5AC4E908308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF7289F-B8E9-4616-BD39-D5AC4E908308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF7289F-B8E9-4616-BD39-D5AC4E908308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF7289F-B8E9-4616-BD39-D5AC4E908308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0BCC1E9-96AC-46CD-8CA3-8216D370174C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BCC1E9-96AC-46CD-8CA3-8216D370174C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BCC1E9-96AC-46CD-8CA3-8216D370174C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BCC1E9-96AC-46CD-8CA3-8216D370174C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D03FAE67-C7B9-4E6B-87F2-8BCB35867BF8}
+	EndGlobalSection
+EndGlobal

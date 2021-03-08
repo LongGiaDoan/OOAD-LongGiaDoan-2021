@@ -1,0 +1,46 @@
+﻿<Window x:Class="WpfCarConfigurator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfCarConfigurator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="auto" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Label Content="model &amp; kleur" Grid.Column="0" Grid.Row="0" FontWeight="Bold"/>
+        <StackPanel Orientation="Vertical" Grid.Column="1" Grid.Row="0">
+            <ComboBox x:Name="cmbModel" HorizontalAlignment="Left" Width="176" Margin="0,0,0,50" SelectionChanged="cmbModel_SelectionChanged" >
+            <ComboBoxItem Content="continental V8 (85000 euro)" IsSelected="True" />
+            <ComboBoxItem Content="convertible (72000 euro)" />
+            <ComboBoxItem Content="mulsanne (65300 euro)" />
+            </ComboBox>
+            <RadioButton x:Name="rbtnKleurBlauw1" Content="blauw" GroupName="kleur"></RadioButton>
+            <RadioButton x:Name="rbtnKleurGroen" Content="groen (+250 euro)" GroupName="kleur"></RadioButton>
+            <RadioButton x:Name="rbtnKleurRood" Content="rood(+700 euro)" GroupName="kleur"></RadioButton>
+        </StackPanel>
+        <Image x:Name="imgAuto" Source="images/model1_blauw.jpg" Grid.Column="3" Grid.Row="0" Height="150" Margin="50,0,0,0"></Image>
+        <Label Content="accessoires " Grid.Row="1" FontWeight="Bold"></Label>
+        <StackPanel Orientation="Vertical" Grid.Column="1" Grid.Row="1">
+            <CheckBox x:Name="cboxAudio" Content="Bose audio speakers (+1250 euro)" ></CheckBox>
+            <CheckBox x:Name="cboxMatjes" Content="Deluxe matjess (+150 euro)"></CheckBox>
+            <CheckBox x:Name="cboxVelgen" Content="Aluminium velgen (+300 euro)"></CheckBox>
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Grid.Row="1" Grid.Column="2">
+            <Image x:Name="imgAudio" Source="images/opties_audio.jpg"  Opacity="0.3"></Image>
+            <Image x:Name="imgMatjes" Source="images/opties_matjes.jpg" Margin="0,5,0,0" Opacity="0.3"></Image>
+            <Image x:Name="imgVelgen" Source="images/opties_velgen.jpg" Margin="0,5,0,0" Opacity="0.3"></Image>
+        </StackPanel>
+        <Label Grid.Row="2" Grid.Column="0" Content="Totaalprijs" FontWeight="Bold" FontStyle="Italic"></Label>
+        <Label x:Name="lblTotaalPrijs" Grid.Row="2" Grid.Column="1" Height="35"></Label>
+    </Grid>
+</Window>

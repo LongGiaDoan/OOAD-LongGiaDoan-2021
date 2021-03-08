@@ -1,0 +1,43 @@
+﻿<Window x:Class="WpfNotepad.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfNotepad"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DockPanel>
+            <Menu DockPanel.Dock="Top">
+                <MenuItem Header="_File" TabIndex="0">
+                    <MenuItem x:Name="mnuNew" Header="_New"  />
+                    <MenuItem x:Name="mnuOpen" Header="_Open" />
+                    <MenuItem x:Name="mnuSave" Header="_Save" IsEnabled="False"  />
+                    <MenuItem x:Name="mnuSaveAs" Header="_Save as" IsEnabled="False" />
+                    <Separator />
+                    <MenuItem Header="_Exit" />
+                </MenuItem>
+                <MenuItem Header="_Edit" TabIndex="1">
+                    <MenuItem Header="_Cut" IsEnabled="False"/>
+                    <MenuItem Header="_Copy" IsEnabled="False"/>
+                    <MenuItem Header="_Paste" IsEnabled="False"/>
+                </MenuItem>
+                <MenuItem Header="_Help" TabIndex="2">
+                    <MenuItem x:Name="mnuAbout" Header="_About" Click="mnuAbout_Click"/>
+                </MenuItem>
+            </Menu>
+            <StatusBar DockPanel.Dock="Bottom">
+                <StatusBarItem>
+                    <Label x:Name="lblAantalWoorden" Content="#chars: 0"></Label>
+                </StatusBarItem>
+            </StatusBar>
+            <TabControl>
+                <TabItem x:Name="tbiNaamDoc" Header="_Untitled">
+                    <TextBox x:Name="txtTekst" Text="test" ></TextBox>
+                </TabItem>
+            </TabControl>
+
+        </DockPanel>
+
+    </Grid>
+</Window>
