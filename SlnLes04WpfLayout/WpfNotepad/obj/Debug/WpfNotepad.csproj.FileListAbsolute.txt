@@ -14,3 +14,4 @@ C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes04WpfLayout\WpfNotepa
 C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes04WpfLayout\WpfNotepad\obj\Debug\WpfNotepad.pdb
 C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes04WpfLayout\WpfNotepad\obj\Debug\AboutWindow.g.cs
 C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes04WpfLayout\WpfNotepad\obj\Debug\AboutWindow.baml
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes04WpfLayout\WpfNotepad\obj\Debug\WpfNotepad.csprojAssemblyReference.cache

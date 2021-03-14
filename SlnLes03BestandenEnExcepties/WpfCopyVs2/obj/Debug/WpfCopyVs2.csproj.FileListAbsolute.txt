@@ -26,3 +26,10 @@ E:\SSD\Users\DOAN\Documents\GitHub\Long-Doan\OOAD-portfolio-LongGiaDoan\OOAD-por
 E:\SSD\Users\DOAN\Documents\GitHub\Long-Doan\OOAD-portfolio-LongGiaDoan\OOAD-portfolio-LongGiaDoan\SlnLes2\WpfCopyVs2\obj\Debug\WpfCopyVs2.csproj.CoreCompileInputs.cache
 E:\SSD\Users\DOAN\Documents\GitHub\Long-Doan\OOAD-portfolio-LongGiaDoan\OOAD-portfolio-LongGiaDoan\SlnLes2\WpfCopyVs2\obj\Debug\WpfCopyVs2.exe
 E:\SSD\Users\DOAN\Documents\GitHub\Long-Doan\OOAD-portfolio-LongGiaDoan\OOAD-portfolio-LongGiaDoan\SlnLes2\WpfCopyVs2\obj\Debug\WpfCopyVs2.pdb
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes03BestandenEnExcepties\WpfCopyVs2\obj\Debug\WpfCopyVs2.csprojAssemblyReference.cache
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes03BestandenEnExcepties\WpfCopyVs2\obj\Debug\MainWindow.g.cs
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes03BestandenEnExcepties\WpfCopyVs2\obj\Debug\App.g.cs
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes03BestandenEnExcepties\WpfCopyVs2\obj\Debug\WpfCopyVs2_MarkupCompile.cache
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes03BestandenEnExcepties\WpfCopyVs2\obj\Debug\WpfCopyVs2_MarkupCompile.lref
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes03BestandenEnExcepties\WpfCopyVs2\obj\Debug\WpfCopyVs2.exe
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes03BestandenEnExcepties\WpfCopyVs2\obj\Debug\WpfCopyVs2.pdb

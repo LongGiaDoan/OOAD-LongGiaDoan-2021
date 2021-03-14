@@ -9,18 +9,18 @@
     <Grid>
         <DockPanel>
             <Menu DockPanel.Dock="Top">
-                <MenuItem Header="_File" TabIndex="0">
-                    <MenuItem x:Name="mnuNew" Header="_New"  />
-                    <MenuItem x:Name="mnuOpen" Header="_Open" />
-                    <MenuItem x:Name="mnuSave" Header="_Save" IsEnabled="False"  />
-                    <MenuItem x:Name="mnuSaveAs" Header="_Save as" IsEnabled="False" />
+                <MenuItem x:Name="mnuFile" Header="_File" TabIndex="0" SubmenuOpened="MenuItem_SubmenuOpened">
+                    <MenuItem x:Name="mnuNew" Header="_New" Click="mnuNew_Click"  />
+                    <MenuItem x:Name="mnuOpen" Header="_Open"  Click="mnuOpen_Click"/>
+                    <MenuItem x:Name="mnuSave" Header="_Save" IsEnabled="False" Click="mnuSave_Click" />
+                    <MenuItem x:Name="mnuSaveAs" Header="_Save as" IsEnabled="False"  Click="mnuSaveAs_Click"/>
                     <Separator />
                     <MenuItem Header="_Exit" />
                 </MenuItem>
-                <MenuItem Header="_Edit" TabIndex="1">
-                    <MenuItem Header="_Cut" IsEnabled="False"/>
-                    <MenuItem Header="_Copy" IsEnabled="False"/>
-                    <MenuItem Header="_Paste" IsEnabled="False"/>
+                <MenuItem x:Name="mnuEdit" Header="_Edit" TabIndex="1" SubmenuOpened="mnuEdit_SubmenuOpened">
+                    <MenuItem x:Name="btnCut" Header="_Cut" IsEnabled="True" Click="btnCut_Click"/>
+                    <MenuItem x:Name="btnCopy" Header="_Copy" IsEnabled="True" Click="btnCopy_Click"/>
+                    <MenuItem x:Name="btnPaste" Header="_Paste" IsEnabled="False" Click="btnPaste_Click"/>
                 </MenuItem>
                 <MenuItem Header="_Help" TabIndex="2">
                     <MenuItem x:Name="mnuAbout" Header="_About" Click="mnuAbout_Click"/>
@@ -33,7 +33,7 @@
             </StatusBar>
             <TabControl>
                 <TabItem x:Name="tbiNaamDoc" Header="_Untitled">
-                    <TextBox x:Name="txtTekst" Text="test" ></TextBox>
+                    <TextBox x:Name="txtTekst" Text="test" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled" TextWrapping="Wrap" AcceptsReturn="True" TextChanged="TextBox_TextChanged"></TextBox>
                 </TabItem>
             </TabControl>
 
