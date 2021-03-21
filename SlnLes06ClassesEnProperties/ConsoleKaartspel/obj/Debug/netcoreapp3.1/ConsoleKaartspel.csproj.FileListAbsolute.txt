@@ -1,0 +1,13 @@
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes06ClassesEnProperties\ConsoleKaartspel\bin\Debug\netcoreapp3.1\ConsoleKaartspel.exe
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes06ClassesEnProperties\ConsoleKaartspel\bin\Debug\netcoreapp3.1\ConsoleKaartspel.deps.json
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes06ClassesEnProperties\ConsoleKaartspel\bin\Debug\netcoreapp3.1\ConsoleKaartspel.runtimeconfig.json
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes06ClassesEnProperties\ConsoleKaartspel\bin\Debug\netcoreapp3.1\ConsoleKaartspel.runtimeconfig.dev.json
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes06ClassesEnProperties\ConsoleKaartspel\bin\Debug\netcoreapp3.1\ConsoleKaartspel.dll
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes06ClassesEnProperties\ConsoleKaartspel\bin\Debug\netcoreapp3.1\ConsoleKaartspel.pdb
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes06ClassesEnProperties\ConsoleKaartspel\obj\Debug\netcoreapp3.1\ConsoleKaartspel.csprojAssemblyReference.cache
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes06ClassesEnProperties\ConsoleKaartspel\obj\Debug\netcoreapp3.1\ConsoleKaartspel.AssemblyInfoInputs.cache
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes06ClassesEnProperties\ConsoleKaartspel\obj\Debug\netcoreapp3.1\ConsoleKaartspel.AssemblyInfo.cs
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes06ClassesEnProperties\ConsoleKaartspel\obj\Debug\netcoreapp3.1\ConsoleKaartspel.csproj.CoreCompileInputs.cache
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes06ClassesEnProperties\ConsoleKaartspel\obj\Debug\netcoreapp3.1\ConsoleKaartspel.dll
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes06ClassesEnProperties\ConsoleKaartspel\obj\Debug\netcoreapp3.1\ConsoleKaartspel.pdb
+C:\Users\DOAN\Documents\GitHub\OOAD-LongGiaDoan-2021\SlnLes06ClassesEnProperties\ConsoleKaartspel\obj\Debug\netcoreapp3.1\ConsoleKaartspel.genruntimeconfig.cache
